@@ -1,3 +1,4 @@
+-- SQL INTRO
 -- Create a new database
 CREATE DATABASE moviesdb;
 
