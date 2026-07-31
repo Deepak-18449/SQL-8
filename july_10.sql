@@ -1,3 +1,4 @@
+-- Functions
 -- Inbuilt functions
 -- Scalar functions => apply on every row and return output for every row
 
