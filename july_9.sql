@@ -1,3 +1,4 @@
+-- Like Operator
 use world;
 show tables;
 
