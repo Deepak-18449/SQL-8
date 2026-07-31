@@ -1,3 +1,4 @@
+--  Numeric Functions
 use world;
 
 select * from city;
