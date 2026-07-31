@@ -1,3 +1,4 @@
+-- Group by
 use world;
 
 select distinct(continent) from country;
